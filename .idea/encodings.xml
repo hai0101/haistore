@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xbinstorecommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xbinstorecommonconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xbinstorecommonmapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xbinstorecommonpojo" charset="UTF-8" />
+  </component>
+</project>
